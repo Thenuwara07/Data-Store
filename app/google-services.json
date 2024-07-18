@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405493197437",
+    "project_id": "data-store-fd443",
+    "storage_bucket": "data-store-fd443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405493197437:android:212890aee554cbf6c85f14",
+        "android_client_info": {
+          "package_name": "com.example.datastore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDwMefX9mDoHfmb9-nBhzF6Mo4AmVhxao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
